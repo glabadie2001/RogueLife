@@ -1027,7 +1027,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 330585545}
   speed: 5
+  sprintMult: 1.5
+  crouchMult: 0.5
   jumpForce: 350
+  currentState:
+    name: 
 --- !u!4 &614107299
 Transform:
   m_ObjectHideFlags: 0
